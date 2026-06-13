@@ -1,7 +1,0 @@
-﻿name: QRevise
-version: '0.2'
-main: dev.qbit.qrevise.Main
-api-version: '1.16'
-commands:
-  revise: {}
-  contact: {}
